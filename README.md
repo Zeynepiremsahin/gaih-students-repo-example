@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 28.12.1997 
+**Course Date:** 08.03.2021-12.03.2021
 **Name:** Zeynep İrem
 **Surname:** ŞAHİN
 **Email:** zeynepiremsahin444@gmail.com 
